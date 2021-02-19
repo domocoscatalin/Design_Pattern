@@ -10,7 +10,7 @@ public class Author {
 
     public String toString()
     {
-        return "Laborator3.Laborator5.Author [name=" + name + "]";
+        return "Laborator3.Author [name=" + name + "]";
     }
 
 
